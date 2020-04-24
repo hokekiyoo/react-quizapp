@@ -10,7 +10,6 @@
 ```
 
 .
-├── .github/workflows
 ├── Dockerfile
 ├── docker-compose.yml
 ├── App.css     //アプリ全体のスタイルを整える
